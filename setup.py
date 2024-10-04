@@ -65,9 +65,9 @@ setuptools.setup(
             'clickhouse-connect~=0.6.23',
         ],
         'dbt': [
-            'dbt-bigquery==1.7.2',
+            'dbt-bigquery==1.9.0-b1',
             'dbt-clickhouse==1.7.1',
-            'dbt-core==1.7.4',
+            'dbt-core==1.9.0-b1',
             'dbt-duckdb==1.7.0',
             'dbt-postgres==1.7.4',
             'dbt-redshift==1.7.1',
